@@ -1,0 +1,70 @@
+.container {
+    width: 600px;
+    margin: 0, auto;
+    border: 3px black dotted;
+    text-align: center;
+    padding: 20px 40px;
+    background: white;
+}
+
+body {
+    background-image: url("https://cdn.wallpapersafari.com/61/78/4Gk1tz.jpg");
+}
+
+header {
+ font-size: 35px;
+ font-family: Georgia, 'Times New Roman', Times, serif;
+ text-align: center;
+ color: mediumpurple;
+}
+
+#targetscorebox {
+    background:paleturquoise;
+    margin: 0x;
+    height: 200px;
+    padding-left: 30px;
+    padding-top: 10px;
+}
+
+#yourscorebox {
+    background: rgb(248, 248, 120);
+    height: 200px;
+    margin: 0px;
+    padding-left: 30px;
+    padding-top: 10px;
+}
+
+#your-Score {
+    font-size: 40px;
+}
+
+#target-Score {
+    font-size: 40px;
+}
+
+.crystal-image {
+    width: 100px;
+    height: 100px;
+}
+
+#winsscorebox {
+    height: 150px;
+    background: mediumpurple;
+    padding-left: 30px;
+    padding-top: 10px;
+}
+
+#lossesscorebox {
+    height: 150px;
+    background: indianred;
+    padding-left: 30px;
+    padding-top: 10px;
+}
+
+#winsScore {
+    font-size: 40px;
+}
+
+#lossesScore {
+    font-size: 40px;
+}
