@@ -1,6 +1,8 @@
 .container {
     width: 600px;
     margin: 0, auto;
+    margin-top:10px;
+    margin-bottom: 10px;
     border: 3px black dotted;
     text-align: center;
     padding: 20px 40px;

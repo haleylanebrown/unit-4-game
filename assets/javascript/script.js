@@ -29,7 +29,6 @@ $("#target-Score").text(target);
 function resetGame() {
     target = 0;
     yourScore = 0;
-    crystal = [];
     $("#target-Score, #crystalsPage, #your-Score").text("");
 }
 
